@@ -1,5 +1,6 @@
-Microsoft Windows [Version 10.0.18363.1256]
-(c) 2019 Microsoft Corporation. All rights reserved.
+
+Changes from remote ----------------------------
+------------------------------------------------
 
 C:\Users\Don-Desktop>cd git
 The system cannot find the path specified.
